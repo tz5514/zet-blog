@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ZeT</title>
+  
+  <link href="/zet-blog/atom.xml" rel="self"/>
+  
+  <link href="http://tz5514.github.io/zet-blog/"/>
+  <updated>2017-08-17T21:31:43.000Z</updated>
+  <id>http://tz5514.github.io/zet-blog/</id>
+  
+  <author>
+    <name>ZeT</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HelloJS 學員兼講師 @ 創科資訊</title>
+    <link href="http://tz5514.github.io/zet-blog/2016/09/11/hellojs-trunk-studio/"/>
+    <id>http://tz5514.github.io/zet-blog/2016/09/11/hellojs-trunk-studio/</id>
+    <published>2016-09-10T18:26:01.000Z</published>
+    <updated>2017-08-17T21:31:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>大學時代銜接研究所生活的這個暑假也進入尾聲了，很高興在這個夏天來參與了由創科資訊所主辦的 <a href="http://trunk-studio.kktix.cc/events/2016-summer" target="_blank" rel="external">HelloJS - JavaScript 全端開發即戰力班</a>，這次我的身份比較特別一些：我是正式的學員，同時也擔任其中兩週課程的講師。</p>
+<p>這次工作坊課程為期兩個月共八堂課，因此課程的涵蓋範圍甚廣，從基礎的 Git 版本控制系統，JavaScript 與 Node 語言基礎，到進階的 Sails、React、Redux、React Native，內容非常豐富，即使我對於這些技術已經有些基礎，仍然在課程中學到很多以前從未得知的技巧與概念。</p>
+<a id="more"></a>
+<p>而對我來說比較特別的經驗是，這次由我擔任第三與第四週這兩堂課程的講師，教大家關於 React 與 Redux 這套現今最熱門的前端技術。在五月時，我曾經到創科資訊講過一場 React 的基礎概念，不過當時是只有約兩三小時的單純分享，而這次則是完整兩天的工作坊課程，除了概念講解還要加上帶大家實作練習，融會貫通。這對我來是一個很大的新挑戰，但經過之前幾次的嘗試，我覺得我對於資訊教育訓練這種事情有蠻大的興趣，我能夠從與別人分享或教學中獲得快樂與成就感，秉持著一股「這麼潮猛屌的東西不能只有我知道」的精神，讓我越來越能夠融入到開源社群中，覺得自己是其中的一份子。</p>
+<p>因此這次我接受了這個挑戰。在介紹 React 之前我選擇先加入了一大完整的單元，來介紹現代化的前端開發流程與工具，來讓只有基礎前端背景的學員們能夠順利銜接後面的課程，先獲取有關 SASS、Module System、npm、Webpack 等相關必要知識。而 React 以及 Redux 的部分，延續我之前分享一貫的想法，我大部分還是著重於概念的理解，而非只是帶過語法而已，不過既然是工作坊當然還是要動手做，因此也準備了淺顯易懂的練習，讓大家親手練習課程中所介紹的概念與功能。</p>
+<p>準備與講課的過程中，真的需要花費相當大的心力，但我覺得非常值得。除了自己重新複習了一次這些知識以外，也是一個練習自己表達能力與臨場分享的場合，真的非常感謝創科資訊的宗穎以及 Kyle 願意給我這個機會。</p>
+<p>這個暑假我過得非常的充實，接下來即將迎接的就是在中央資工所的研究所生活了，希望有機會的話，能在回到台中彰化這個充滿了大學生活與社群參與回憶的地方來交流。謝謝這段時間幫助過我的每一個人，謝謝你們。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;大學時代銜接研究所生活的這個暑假也進入尾聲了，很高興在這個夏天來參與了由創科資訊所主辦的 &lt;a href=&quot;http://trunk-studio.kktix.cc/events/2016-summer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HelloJS - JavaScript 全端開發即戰力班&lt;/a&gt;，這次我的身份比較特別一些：我是正式的學員，同時也擔任其中兩週課程的講師。&lt;/p&gt;
+&lt;p&gt;這次工作坊課程為期兩個月共八堂課，因此課程的涵蓋範圍甚廣，從基礎的 Git 版本控制系統，JavaScript 與 Node 語言基礎，到進階的 Sails、React、Redux、React Native，內容非常豐富，即使我對於這些技術已經有些基礎，仍然在課程中學到很多以前從未得知的技巧與概念。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活記事" scheme="http://tz5514.github.io/zet-blog/categories/%E7%94%9F%E6%B4%BB%E8%A8%98%E4%BA%8B/"/>
+    
+    
+      <category term="創科資訊" scheme="http://tz5514.github.io/zet-blog/tags/%E5%89%B5%E7%A7%91%E8%B3%87%E8%A8%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Blog 完工</title>
+    <link href="http://tz5514.github.io/zet-blog/2016/09/10/hexo-blog-created/"/>
+    <id>http://tz5514.github.io/zet-blog/2016/09/10/hexo-blog-created/</id>
+    <published>2016-09-10T15:44:49.000Z</published>
+    <updated>2017-08-17T21:31:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天終於把想弄很久的 Blog 架起來了，選用的是非常熱門的 Hexo。</p>
+<p>其採用的 Markdown 轉 HTML 的方式非常有趣，能夠讓我們把 Blog 架在完全不能跑後端語言的環境中（如 Github Pages）。</p>
+<p>這也讓我們能夠完全自由的修改前端畫面的架構以及樣式，加上任何自己想要的功能，這種自由性非常有 Geeker 的感覺，讓算是半個前端工程師的我連改了三天...最後終於生出第一個上線的佈景主題啦。</p>
+<a id="more"></a>
+<p>之後應該會不定期的在這裡發布我自己的技術學習筆記或心得，常聽大神們說寫 Blog 對於整理與消化知識有很大幫助，是時候我也該來付諸實踐了。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天終於把想弄很久的 Blog 架起來了，選用的是非常熱門的 Hexo。&lt;/p&gt;
+&lt;p&gt;其採用的 Markdown 轉 HTML 的方式非常有趣，能夠讓我們把 Blog 架在完全不能跑後端語言的環境中（如 Github Pages）。&lt;/p&gt;
+&lt;p&gt;這也讓我們能夠完全自由的修改前端畫面的架構以及樣式，加上任何自己想要的功能，這種自由性非常有 Geeker 的感覺，讓算是半個前端工程師的我連改了三天...最後終於生出第一個上線的佈景主題啦。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活記事" scheme="http://tz5514.github.io/zet-blog/categories/%E7%94%9F%E6%B4%BB%E8%A8%98%E4%BA%8B/"/>
+    
+    
+      <category term="Hexo" scheme="http://tz5514.github.io/zet-blog/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
