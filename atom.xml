@@ -5,7 +5,7 @@
   <link href="/zet-blog/atom.xml" rel="self"/>
   
   <link href="http://tz5514.github.io/zet-blog/"/>
-  <updated>2017-08-17T21:31:43.000Z</updated>
+  <updated>2017-08-18T09:14:46.000Z</updated>
   <id>http://tz5514.github.io/zet-blog/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LaravelConf Taiwan 2017</title>
+    <link href="http://tz5514.github.io/zet-blog/2017/07/17/hellojs-trunk-studio/"/>
+    <id>http://tz5514.github.io/zet-blog/2017/07/17/hellojs-trunk-studio/</id>
+    <published>2017-07-17T03:26:01.000Z</published>
+    <updated>2017-08-18T09:14:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Laravel Taiwan 社群累積了幾年的能量，這次終於真的在台灣舉辦了第一屆的 Laravel 大型 Conf 啦！真的很替聖佑大大以及社群中的夥伴們高興，而我也來回味一下好久沒有參與的 Laravel 社群。</p>
+<a id="more"></a>
+<p>比起當年那時候我主要寫後端為主，如今我已經比較轉戰到前端的領域了，因此在聽這些議程時能有與過往不同的角度與感受。像是「
+從快速成長的新創企業發展角度談 iFit x ECFIT 導入開發框架 Laravel 時的思維與歷程」這場議程中，我對於一些新創公司他們是如何決策要採用何種技術來實作產品的十分有興趣，其他還包括了導入時遇到的障礙或推行新技術時的溝通等等。而「Laravel 單頁面應用與前後端分離開發」這場議程就與前端領域息息相關了，在這場議程中讓我重新思考從後端工程師的角度來看前端的問題，</p>
+<p>現在我已經很少使用 PHP 來開發後端了，由於實習公司的關係，更多的是使用 Node.js 來進行開發。然而，至今我仍找不到在 Node.js 上能有 Laravel 這種高度「優雅感」的框架，最接近的大概是 eggJS 或 AdonisJS 吧，不過仍與 Laravel 有一段差距，尤其是 ORM 與 Migration 這兩項 DB 相關的功能， Laravel 仍是我覺得最棒的，真希望 Laravel 能有 Node.js 版本哈哈。</p>
+<p>另外這次在主議程結束之後，也有會後交流趴，讓我有機會與許多之前認識的社群前輩們交流，也有認識新的前輩，真的是令我受益良多。很高興能夠參與 Laravel 台灣社群這樣歷史性的里程碑活動，希望社群的發展能夠越來越繁榮，另台灣的軟體產業帶來更多的活力。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Laravel Taiwan 社群累積了幾年的能量，這次終於真的在台灣舉辦了第一屆的 Laravel 大型 Conf 啦！真的很替聖佑大大以及社群中的夥伴們高興，而我也來回味一下好久沒有參與的 Laravel 社群。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活記事" scheme="http://tz5514.github.io/zet-blog/categories/%E7%94%9F%E6%B4%BB%E8%A8%98%E4%BA%8B/"/>
+    
+    
+      <category term="Laravel" scheme="http://tz5514.github.io/zet-blog/tags/Laravel/"/>
+    
+  </entry>
   
   <entry>
     <title>HelloJS 學員兼講師 @ 創科資訊</title>
