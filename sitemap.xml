@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://tz5514.github.io/zet-blog/2017/07/17/hellojs-trunk-studio/</loc>
+    <loc>http://tz5514.github.io/zet-blog/2017/07/17/laravelconf-taiwan-2017/</loc>
     
-    <lastmod>2017-08-18T09:14:46.000Z</lastmod>
+    <lastmod>2017-08-18T09:16:42.000Z</lastmod>
     
   </url>
   
@@ -23,13 +23,6 @@
   </url>
   
   <url>
-    <loc>http://tz5514.github.io/zet-blog/all-tags/index.html</loc>
-    
-    <lastmod>2017-08-17T21:31:43.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://tz5514.github.io/zet-blog/all-archives/index.html</loc>
     
     <lastmod>2017-08-17T21:31:43.000Z</lastmod>
@@ -38,6 +31,13 @@
   
   <url>
     <loc>http://tz5514.github.io/zet-blog/all-categories/index.html</loc>
+    
+    <lastmod>2017-08-17T21:31:43.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://tz5514.github.io/zet-blog/all-tags/index.html</loc>
     
     <lastmod>2017-08-17T21:31:43.000Z</lastmod>
     
